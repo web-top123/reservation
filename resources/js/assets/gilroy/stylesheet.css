@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Gilroy';
+    src: url('Gilroy-Regular.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gilroy';
+    src: url('Gilroy-Bold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gilroybold';
+    src: url('Gilroy-Bold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
